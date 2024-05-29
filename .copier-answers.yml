@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+AskAdvancedQuestions: false
+AuthorEmail: olga.lyashevska@gmail.com
+AuthorName: Olga Lyashevska
+JuliaMinVersion: '1.6'
+License: Apache-2.0
+PackageName: MyCopierTemplate
+PackageOwner: lyashevska
+PackageUUID: c32aea7f-d2ea-5f36-99f4-d48efa7ecb06
+_commit: v0.3.1
+_src_path: https://github.com/abelsiqueira/COPIERTemplate.jl

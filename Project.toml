@@ -1,0 +1,7 @@
+name = "MyCopierTemplate"
+uuid = "c32aea7f-d2ea-5f36-99f4-d48efa7ecb06"
+authors = ["Olga Lyashevska <olga.lyashevska@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
